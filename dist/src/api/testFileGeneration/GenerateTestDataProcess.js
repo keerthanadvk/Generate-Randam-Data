@@ -82,6 +82,7 @@ class GenerateTestDataProcess {
                 });
                 const csvString = totalData.join('\n');
                 fs_1.default.writeFileSync(destinationpath, csvString, 'utf8');
+                console.log("updated randam data");
             }
             catch (error) {
                 logtrace_1.default.error(`Error processing files: ${error.message}`);

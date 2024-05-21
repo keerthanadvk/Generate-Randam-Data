@@ -91,6 +91,7 @@ export class GenerateTestDataProcess {
     
             const csvString = totalData.join('\n');
             fs.writeFileSync(destinationpath, csvString, 'utf8');
+            console.log("updated randam data")
     
         } catch (error) {
             logger.error(`Error processing files: ${error.message}`);
