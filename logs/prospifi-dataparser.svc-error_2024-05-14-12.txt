@@ -1,0 +1,4 @@
+ error: 05:14:2024:12:51:10 Error processing files: sourceFiles is not iterable
+ error: 05:14:2024:12:52:47 Error processing files: sourceFiles is not iterable
+ error: 05:14:2024:12:54:39 Error processing files: sourceFiles is not iterable
+ error: 05:14:2024:12:56:09 Error processing files: sourceFiles is not iterable

@@ -1,0 +1,7 @@
+ error: 05:10:2024:15:05:34 Error processing files: dr.forEach is not a function
+ error: 05:10:2024:15:42:08 Error :: Class - CommonService method - saveCSVFile EBUSY: resource busy or locked, open 'D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv'
+ error: 05:10:2024:15:42:08 Error processing files: Cannot read properties of undefined (reading '0')
+ error: 05:10:2024:15:42:49 Error :: Class - CommonService method - saveCSVFile EBUSY: resource busy or locked, open 'D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv'
+ error: 05:10:2024:15:44:18 Error :: Class - CommonService method - saveCSVFile EBUSY: resource busy or locked, open 'D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv'
+ error: 05:10:2024:15:45:13 Error :: Class - CommonService method - saveCSVFile EBUSY: resource busy or locked, open 'D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv'
+ error: 05:10:2024:15:57:35 Error processing files: EBUSY: resource busy or locked, open 'D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\LSDataTextFile_updatedRandomText.csv'

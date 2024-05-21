@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 10
+    },
+    "auditLog": "D:\\2023\\Projects\\New folder\\New folder\\GeneratingTestFileWithProdFileZipFile\\logs\\.cd6e2dec3addab02ead87f509820ee9d4ee886c9-audit.json",
+    "files": [
+        {
+            "date": 1715313706575,
+            "name": "D:\\2023\\Projects\\New folder\\New folder\\GeneratingTestFileWithProdFileZipFile\\logs\\prospifi-dataparser.svc-info_2024-05-10-09.txt",
+            "hash": "b6381c9b2147908baa39794f052cc6b687e9bc9a8810c5ff577e2acceaeff5be"
+        }
+    ],
+    "hashType": "sha256"
+}

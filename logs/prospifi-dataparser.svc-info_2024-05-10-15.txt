@@ -1,0 +1,436 @@
+ info: 05:10:2024:15:05:20 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:05:20 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:05:20 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:05:20 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:05:20 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:05:20 Class - app.ts method - listen End
+ info: 05:10:2024:15:05:20 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:05:20 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:05:20 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:05:22 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:05:22 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:05:22 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:05:22 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1020
+ info: 05:10:2024:15:05:22 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:05:22 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:15:05:27 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:15:05:29 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:15:05:34 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:05:34 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:05:34 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:05:34 Class - GenerateTestDataProcess method - processRecord End
+ error: 05:10:2024:15:05:34 Error processing files: dr.forEach is not a function
+ info: 05:10:2024:15:05:34 Class - GenerateTestDataProcess method - processIndexFiles End
+ info: 05:10:2024:15:05:34 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:15:05:34 Class - GenerateTestDataProcess method - buildTestData End
+ info: 05:10:2024:15:10:50 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:10:50 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:10:50 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:10:50 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:10:50 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:10:50 Class - app.ts method - listen End
+ info: 05:10:2024:15:10:50 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:10:50 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:10:50 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:10:53 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:10:53 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:10:53 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:10:53 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1020
+ info: 05:10:2024:15:10:53 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:10:53 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:15:10:55 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:15:10:55 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:15:11:00 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:11:00 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:11:00 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:11:00 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:11:36 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:11:36 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:11:36 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:11:36 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:11:37 Class - GenerateTestDataProcess method - processIndexFiles End
+ info: 05:10:2024:15:11:37 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:15:11:37 Class - GenerateTestDataProcess method - buildTestData End
+ info: 05:10:2024:15:13:28 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:13:28 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:13:28 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:13:28 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:13:28 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:13:28 Class - app.ts method - listen End
+ info: 05:10:2024:15:13:28 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:13:28 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:13:28 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:13:28 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:13:28 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:13:28 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:13:28 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1020
+ info: 05:10:2024:15:13:28 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:13:28 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:15:13:28 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:15:13:28 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:15:13:42 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:16:46 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:16:46 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:16:46 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:16:46 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:16:46 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:16:46 Class - app.ts method - listen End
+ info: 05:10:2024:15:16:46 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:16:46 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:16:46 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:16:46 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:16:46 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:16:46 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:16:46 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1020
+ info: 05:10:2024:15:16:46 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:16:46 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:15:16:46 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:15:16:46 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:15:16:50 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:17:05 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:17:05 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:17:08 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:17:08 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:18:36 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:18:36 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:18:36 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:18:36 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:18:36 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:18:36 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:18:36 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:19:40 Class - GenerateTestDataProcess method - processIndexFiles End
+ info: 05:10:2024:15:19:40 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:15:19:40 Class - GenerateTestDataProcess method - buildTestData End
+ info: 05:10:2024:15:35:55 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:35:55 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:35:55 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:35:55 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:35:55 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:35:55 Class - app.ts method - listen End
+ info: 05:10:2024:15:35:55 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:35:55 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:35:55 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:35:55 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:35:55 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:35:55 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:35:55 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1021
+ info: 05:10:2024:15:35:55 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:35:55 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:15:35:55 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:15:35:55 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:15:35:55 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:36:29 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:36:29 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:36:40 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:36:40 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:36:42 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:36:42 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:36:44 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:36:44 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:36:45 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:36:45 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:37:23 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:38:22 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:38:23 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:38:23 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:38:24 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:38:24 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:38:24 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:38:24 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:38:25 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:38:25 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:38:26 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:38:26 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:38:55 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:41:39 Class - GenerateTestDataProcess method - processIndexFiles End
+ info: 05:10:2024:15:41:39 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:15:41:39 Class - GenerateTestDataProcess method - buildTestData End
+ info: 05:10:2024:15:42:08 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:42:08 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:42:08 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:42:08 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:42:08 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:42:08 Class - app.ts method - listen End
+ info: 05:10:2024:15:42:08 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:42:08 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:42:08 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:42:08 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:42:08 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:42:08 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:42:08 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1021
+ info: 05:10:2024:15:42:08 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:42:08 Class - CommonService method - convertJsontoCsv Begin
+ error: 05:10:2024:15:42:08 Error :: Class - CommonService method - saveCSVFile EBUSY: resource busy or locked, open 'D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv'
+ info: 05:10:2024:15:42:08 Class - CommonService method - saveCSVFile End
+ info: 05:10:2024:15:42:08 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile End
+ info: 05:10:2024:15:42:08 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:15:42:08 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:15:42:08 Class - CommonService :: method - convertCsv2Json csv file path empty
+ info: 05:10:2024:15:42:08 Class - CommonService method - convertCsv2Json End
+ error: 05:10:2024:15:42:08 Error processing files: Cannot read properties of undefined (reading '0')
+ info: 05:10:2024:15:42:08 Class - GenerateTestDataProcess method - processIndexFiles End
+ info: 05:10:2024:15:42:08 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:15:42:08 Class - GenerateTestDataProcess method - buildTestData End
+ info: 05:10:2024:15:42:46 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:42:46 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:42:46 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:42:46 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:42:46 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:42:46 Class - app.ts method - listen End
+ info: 05:10:2024:15:42:46 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:42:46 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:42:46 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:42:49 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:42:49 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:42:49 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:42:49 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1021
+ info: 05:10:2024:15:42:49 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:44:14 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:44:14 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:44:14 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:44:14 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:44:14 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:44:14 Class - app.ts method - listen End
+ info: 05:10:2024:15:44:14 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:44:14 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:44:14 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:44:18 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:44:18 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:44:18 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:44:18 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1021
+ info: 05:10:2024:15:44:18 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:45:11 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:45:11 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:45:11 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:45:11 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:45:11 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:45:11 Class - app.ts method - listen End
+ info: 05:10:2024:15:45:11 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:45:11 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:45:11 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:45:13 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:45:13 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:45:13 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:45:13 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1021
+ info: 05:10:2024:15:45:13 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:45:34 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:45:34 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:45:34 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:45:34 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:45:34 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:45:34 Class - app.ts method - listen End
+ info: 05:10:2024:15:45:34 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:45:34 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:45:34 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:45:36 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:45:36 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:45:36 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:45:36 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1021
+ info: 05:10:2024:15:45:36 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:45:36 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:15:45:40 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:15:45:40 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:15:45:40 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:45:43 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:45:43 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:45:44 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:45:44 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:45:47 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:45:47 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:45:47 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:45:47 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:45:47 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:45:47 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:45:52 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:45:54 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:45:55 Class - GenerateTestDataProcess method - processIndexFiles End
+ info: 05:10:2024:15:45:56 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:15:45:56 Class - GenerateTestDataProcess method - buildTestData End
+ info: 05:10:2024:15:50:22 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:50:22 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:50:22 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:50:22 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:50:22 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:50:22 Class - app.ts method - listen End
+ info: 05:10:2024:15:50:22 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:50:22 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:50:22 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:50:25 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:50:25 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:50:25 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:50:25 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1021
+ info: 05:10:2024:15:50:25 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:50:25 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:15:50:26 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:50:26 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:50:32 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:50:56 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:51:05 Class - GenerateTestDataProcess method - processIndexFiles End
+ info: 05:10:2024:15:51:18 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:15:51:18 Class - GenerateTestDataProcess method - buildTestData End
+ info: 05:10:2024:15:53:46 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:53:46 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:53:46 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:53:46 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:53:46 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:53:46 Class - app.ts method - listen End
+ info: 05:10:2024:15:53:46 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:53:46 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:53:46 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:53:49 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:53:49 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:53:49 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:53:49 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1021
+ info: 05:10:2024:15:53:49 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:53:49 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:15:53:49 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:15:53:49 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:15:53:49 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:53:49 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:53:49 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:53:49 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:53:50 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:53:50 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:53:50 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:53:50 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:53:50 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:53:50 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:53:50 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:54:10 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:54:19 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:54:22 Class - GenerateTestDataProcess method - processIndexFiles End
+ info: 05:10:2024:15:54:50 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:15:54:54 Class - GenerateTestDataProcess method - buildTestData End
+ info: 05:10:2024:15:57:06 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:57:06 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:57:06 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:57:06 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:57:06 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:57:06 Class - app.ts method - listen End
+ info: 05:10:2024:15:57:06 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:57:06 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:57:06 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:57:10 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:57:10 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:57:10 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:57:10 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1021
+ info: 05:10:2024:15:57:10 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:57:10 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:15:57:12 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:57:12 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:57:29 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:57:33 Class - GenerateTestDataProcess method - processRecord End
+ error: 05:10:2024:15:57:35 Error processing files: EBUSY: resource busy or locked, open 'D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\LSDataTextFile_updatedRandomText.csv'
+ info: 05:10:2024:15:57:36 Class - GenerateTestDataProcess method - processIndexFiles End
+ info: 05:10:2024:15:58:18 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:15:58:21 Class - GenerateTestDataProcess method - buildTestData End
+ info: 05:10:2024:15:58:58 Class - app.ts method - listen Begin
+ info: 05:10:2024:15:58:58 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:15:58:58 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:15:58:58 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:58:58 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:58:58 Class - app.ts method - listen End
+ info: 05:10:2024:15:58:58 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:15:58:58 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:15:58:58 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1021
+ info: 05:10:2024:15:59:01 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:15:59:01 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:15:59:01 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:59:01 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - processRecord Begin
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - GenerateTestData Begin
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - GenerateTestData End
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - GenerateTestNumber Begin
+ info: 05:10:2024:15:59:03 Class - GenerateTestDataProcess method - GenerateTestNumber End
+ info: 05:10:2024:15:59:05 Class - GenerateTestDataProcess method - processRecord End
+ info: 05:10:2024:15:59:05 Class - GenerateTestDataProcess method - processIndexFiles End
+ info: 05:10:2024:15:59:10 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:15:59:10 Class - GenerateTestDataProcess method - buildTestData End

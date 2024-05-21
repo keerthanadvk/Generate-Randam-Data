@@ -1,0 +1,5 @@
+ error: 05:10:2024:14:17:28 Error :: Class - CommonService method - readJSONFile Expected double-quoted property name in JSON at position 1328
+ error: 05:10:2024:14:20:08 Error :: Class - CommonService method - readJSONFile Expected double-quoted property name in JSON at position 1328
+ error: 05:10:2024:14:22:22 Error :: Class - CommonService method - readJSONFile Expected double-quoted property name in JSON at position 1328
+ error: 05:10:2024:14:28:25 Error :: Class - GenerateTestDataProcess method - processFile Cannot read properties of undefined (reading 'fileType')
+ error: 05:10:2024:14:33:21 Error processing files: The "path" argument must be of type string. Received undefined

@@ -1,0 +1,2 @@
+ error: 05:10:2024:11:02:59 Error processing files: dataRow.forEach is not a function
+ error: 05:10:2024:11:05:24 Error processing files: dataRow.forEach is not a function

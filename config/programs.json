@@ -1,0 +1,8 @@
+
+{
+  "inputFolder": "/src/input/",
+  "outputFolder": "/src/output/",
+  "schemaFolder": "src/schema/",
+  "schemaConfigFile": "lsschema.json",
+  "fileName": "FINAL_ABC01_AllStar_Lending_EX_Order_3797717_TEST_24A-AS-NTC-PS_05282024.csv"
+}

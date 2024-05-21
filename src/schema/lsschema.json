@@ -1,0 +1,69 @@
+{
+    "schemaconfig": {
+      "fileType": "csv",
+      "isIndexed": false,
+      "delimiter": ",",
+      "header": false,
+      "fields":[
+        {
+          "name": "SSN",
+          "type": "number",
+          "length": 12,
+          "startPosition": 1,
+          "endPosition": 12,
+          "isGenerateRandomText": true
+        },
+        {
+          "name": "LAST_NAME",
+          "length": 20,
+          "startPosition": 13,
+          "endPosition": 32,
+          "isGenerateRandomText": true
+        },
+        {
+          "name": "FIRST_NAME",
+          "length": 20,
+          "startPosition": 33,
+          "endPosition": 52,
+          "isGenerateRandomText": true
+        },
+        {
+          "name": "ADDRESS",
+          "length": 20,
+          "startPosition": 53,
+          "endPosition": 72,
+          "isGenerateRandomText": true
+        },
+        {
+          "name": "ZIP5",
+          "type": "number",
+          "length": 4,
+          "startPosition": 73,
+          "endPosition": 76,
+          "isGenerateRandomText": true
+        },
+        {
+          "name": "ZIP4",
+          "type": "number",
+          "length": 9,
+          "startPosition": 77,
+          "endPosition": 85,
+          "isGenerateRandomText": true
+        },
+        {
+          "name": "STATE",
+          "length": 70,
+          "startPosition": 86,
+          "endPosition": 155,
+          "isGenerateRandomText": true
+        },
+        {
+            "name": "CITY",
+            "length": 70,
+            "startPosition": 86,
+            "endPosition": 155,
+            "isGenerateRandomText": true
+          }
+    ]
+}
+}

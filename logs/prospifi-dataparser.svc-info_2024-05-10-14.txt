@@ -1,0 +1,94 @@
+ info: 05:10:2024:14:17:14 Class - app.ts method - listen Begin
+ info: 05:10:2024:14:17:14 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:14:17:14 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:14:17:14 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:14:17:15 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:17:15 Class - app.ts method - listen End
+ info: 05:10:2024:14:17:15 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:14:17:28 Class - CommonService method - readJSONFile Begin
+ error: 05:10:2024:14:17:28 Error :: Class - CommonService method - readJSONFile Expected double-quoted property name in JSON at position 1328
+ info: 05:10:2024:14:17:28 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:19:48 Class - app.ts method - listen Begin
+ info: 05:10:2024:14:19:48 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:14:19:48 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:14:19:48 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:14:19:48 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:19:48 Class - app.ts method - listen End
+ info: 05:10:2024:14:19:48 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:14:20:08 Class - CommonService method - readJSONFile Begin
+ error: 05:10:2024:14:20:08 Error :: Class - CommonService method - readJSONFile Expected double-quoted property name in JSON at position 1328
+ info: 05:10:2024:14:20:08 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:22:18 Class - app.ts method - listen Begin
+ info: 05:10:2024:14:22:18 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:14:22:18 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:14:22:18 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:14:22:18 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:22:18 Class - app.ts method - listen End
+ info: 05:10:2024:14:22:18 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:14:22:22 Class - CommonService method - readJSONFile Begin
+ error: 05:10:2024:14:22:22 Error :: Class - CommonService method - readJSONFile Expected double-quoted property name in JSON at position 1328
+ info: 05:10:2024:14:22:22 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:26:32 Class - app.ts method - listen Begin
+ info: 05:10:2024:14:26:32 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:14:26:32 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:14:26:36 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:14:26:39 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:26:39 Class - app.ts method - listen End
+ info: 05:10:2024:14:26:39 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:14:26:45 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:14:26:54 Class - CommonService method - readJSONFile End
+ error: 05:10:2024:14:28:25 Error :: Class - GenerateTestDataProcess method - processFile Cannot read properties of undefined (reading 'fileType')
+ info: 05:10:2024:14:28:25 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:14:28:25 Class - GenerateTestDataProcess method - buildTestData End
+ info: 05:10:2024:14:32:33 Class - app.ts method - listen Begin
+ info: 05:10:2024:14:32:33 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:14:32:33 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:14:32:44 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:14:32:44 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:32:44 Class - app.ts method - listen End
+ info: 05:10:2024:14:32:44 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:14:32:47 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:14:32:47 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:33:06 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:14:33:06 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:14:33:06 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:14:33:06 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1020
+ info: 05:10:2024:14:33:06 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:14:33:06 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:14:33:21 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ error: 05:10:2024:14:33:21 Error processing files: The "path" argument must be of type string. Received undefined
+ info: 05:10:2024:14:33:21 Class - GenerateTestDataProcess method - processIndexFiles End
+ info: 05:10:2024:14:33:21 Class - GenerateTestDataProcess method - processFile End
+ info: 05:10:2024:14:33:21 Class - GenerateTestDataProcess method - buildTestData End
+ info: 05:10:2024:14:56:37 Class - app.ts method - listen Begin
+ info: 05:10:2024:14:56:37 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:14:56:37 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:14:56:37 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:14:56:37 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:56:37 Class - app.ts method - listen End
+ info: 05:10:2024:14:56:37 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:14:56:37 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:14:56:37 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:56:42 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:14:56:42 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:14:56:42 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:14:56:42 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1020
+ info: 05:10:2024:14:56:42 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:14:58:22 Class - app.ts method - listen Begin
+ info: 05:10:2024:14:58:22 Class - app.ts method - listen Express is listening at http://localhost:4200
+ info: 05:10:2024:14:58:22 Class - GenerateTestDataProcess method - buildTestData Begin
+ info: 05:10:2024:14:58:22 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:14:58:22 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:58:22 Class - app.ts method - listen End
+ info: 05:10:2024:14:58:22 Class - GenerateTestDataProcess method - processFile Begin
+ info: 05:10:2024:14:58:22 Class - CommonService method - readJSONFile Begin
+ info: 05:10:2024:14:58:22 Class - CommonService method - readJSONFile End
+ info: 05:10:2024:14:58:26 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile Begin
+ info: 05:10:2024:14:58:26 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile filePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\input\LSDataTextFile.txt
+ info: 05:10:2024:14:58:26 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile parsefilePath -  D:\2023\Projects\New folder\GeneretingRandamData\GeneratingTestFileWithProdFileZipFile\src\output\parsefilePath.csv
+ info: 05:10:2024:14:58:26 Class - GenerateTestDataProcess method - prospifi_TxtFileToCSVFile schemaFields count -  1020
+ info: 05:10:2024:14:58:26 Class - CommonService method - saveCSVFile Begin
+ info: 05:10:2024:14:58:26 Class - CommonService method - convertJsontoCsv Begin
+ info: 05:10:2024:14:58:33 Class - GenerateTestDataProcess method - processIndexFiles Begin
+ info: 05:10:2024:14:58:50 Class - CommonService method - convertCsv2Json Begin
+ info: 05:10:2024:14:59:04 Class - GenerateTestDataProcess method - processRecord Begin

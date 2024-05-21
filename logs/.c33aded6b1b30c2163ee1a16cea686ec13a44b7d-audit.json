@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 10
+    },
+    "auditLog": "D:\\2023\\Projects\\New folder\\GeneretingRandamData\\GeneratingRandamData\\logs\\.c33aded6b1b30c2163ee1a16cea686ec13a44b7d-audit.json",
+    "files": [
+        {
+            "date": 1715671821338,
+            "name": "D:\\2023\\Projects\\New folder\\GeneretingRandamData\\GeneratingRandamData\\logs\\prospifi-dataparser.svc-info_2024-05-14-13.txt",
+            "hash": "96dcf827aedfbc1fb0c069766e76e45fee17c8b8b6dbfba5df428d22a366fadd"
+        },
+        {
+            "date": 1715685885989,
+            "name": "D:\\2023\\Projects\\New folder\\GeneretingRandamData\\GeneratingRandamData\\logs\\prospifi-dataparser.svc-info_2024-05-14-16.txt",
+            "hash": "917bc1fe4f67f1a9c43a9b5b9a5ebdba4ae0a4071135b513c29021c3ddf5b5a2"
+        },
+        {
+            "date": 1715765514153,
+            "name": "D:\\2023\\Projects\\New folder\\GeneretingRandamData\\GeneratingRandamData\\logs\\prospifi-dataparser.svc-info_2024-05-15-15.txt",
+            "hash": "2c7a0e817c7005fad78cae857489a26458fb2bf6cb687cd5db86f6d9d220d592"
+        },
+        {
+            "date": 1715844166618,
+            "name": "D:\\2023\\Projects\\New folder\\GeneretingRandamData\\GeneratingRandamData\\logs\\prospifi-dataparser.svc-info_2024-05-16-12.txt",
+            "hash": "d917886890043605c8e5333c50082bb97b824332b23ee1f73a38dbb1bc0b90bc"
+        },
+        {
+            "date": 1715927370060,
+            "name": "D:\\2023\\Projects\\New folder\\GeneretingRandamData\\GeneratingRandamData\\logs\\prospifi-dataparser.svc-info_2024-05-17-11.txt",
+            "hash": "ce06a00599587d34782b50dd0ce7dd56d5097f61d15325bec419dcf01fd7923f"
+        },
+        {
+            "date": 1715927474494,
+            "name": "D:\\2023\\Projects\\New folder\\GeneretingRandamData\\GeneratingRandamData\\logs\\prospifi-dataparser.svc-info_2024-05-17-12.txt",
+            "hash": "04bc09bcb1232b2755616fee3c12613870b028c2645cc1d7d0684e67b1dfddf1"
+        },
+        {
+            "date": 1716182510530,
+            "name": "D:\\2023\\Projects\\New folder\\GeneretingRandamData\\GeneratingRandamData\\logs\\prospifi-dataparser.svc-info_2024-05-20-10.txt",
+            "hash": "228e2791d8a5d225e108500c3d69c99168835e818d5aee48e0e821d8debbf540"
+        },
+        {
+            "date": 1716183145555,
+            "name": "D:\\2023\\Projects\\New folder\\GeneretingRandamData\\GeneratingRandamData\\logs\\prospifi-dataparser.svc-info_2024-05-20-11.txt",
+            "hash": "b2c5a2bf18c9d1b0577121aaa3e5a67e1b33be3742cb3ff9f38a7326e38f26f4"
+        },
+        {
+            "date": 1716186600352,
+            "name": "D:\\2023\\Projects\\New folder\\GeneretingRandamData\\GeneratingRandamData\\logs\\prospifi-dataparser.svc-info_2024-05-20-12.txt",
+            "hash": "5de7fa5647ce72db04ac940e4a318947b815b901eba25887cc731570f3cbfc8c"
+        },
+        {
+            "date": 1716207587681,
+            "name": "D:\\2023\\Projects\\New folder\\GeneretingRandamData\\GeneratingRandamData\\logs\\prospifi-dataparser.svc-info_2024-05-20-17.txt",
+            "hash": "320287103e0c82d6b7b0370d255494a77ece5c37449b9bd8ef1732136c47d5ee"
+        }
+    ],
+    "hashType": "sha256"
+}
